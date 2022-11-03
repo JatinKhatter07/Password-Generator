@@ -1,7 +1,7 @@
 
 ## React Password Generator
 
-You can check out the application here [React Password Generator](/).
+You can check out the application here [React Password Generator](https://password-generator-godoffcode.vercel.app//).
 
 
 
